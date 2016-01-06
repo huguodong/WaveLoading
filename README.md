@@ -3,7 +3,7 @@
 
 ===================================  
 WaveLoadingView 是一个android库帮你轻松实现波浪式加载，提供高度定制（各种姿势），总有一种玩法适合你。
-[戳我戳我戳我戳我戳我戳我](http://components.xamarin.com/view/vitamiobinding)
+[戳我戳我戳我戳我戳我戳我](http://www.07net01.com/2015/12/1022333.html)
 
 注意
 --------
