@@ -103,9 +103,7 @@
 </parameter>
 <parameter name="p1" type="android.util.AttributeSet">
 </parameter>
-</constructor>
-<constructor deprecated="not deprecated" final="false" name="WaveLoadingView" static="false" type="me.itangqi.waveloadingview.WaveLoadingView" visibility="public">
-<parameter name="p0" type="android.content.Context">
+<parameter name="p2" type="int">
 </parameter>
 </constructor>
 <constructor deprecated="not deprecated" final="false" name="WaveLoadingView" static="false" type="me.itangqi.waveloadingview.WaveLoadingView" visibility="public">
@@ -113,7 +111,9 @@
 </parameter>
 <parameter name="p1" type="android.util.AttributeSet">
 </parameter>
-<parameter name="p2" type="int">
+</constructor>
+<constructor deprecated="not deprecated" final="false" name="WaveLoadingView" static="false" type="me.itangqi.waveloadingview.WaveLoadingView" visibility="public">
+<parameter name="p0" type="android.content.Context">
 </parameter>
 </constructor>
 <method abstract="false" deprecated="not deprecated" final="false" name="getAmplitudeRatio" native="false" return="float" static="false" synchronized="false" visibility="public">

@@ -105,6 +105,38 @@ namespace ME.Itangqi.Waveloadingview {
 
 		protected WaveLoadingView (IntPtr javaReference, JniHandleOwnership transfer) : base (javaReference, transfer) {}
 
+		static IntPtr id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I;
+		// Metadata.xml XPath constructor reference: path="/api/package[@name='me.itangqi.waveloadingview']/class[@name='WaveLoadingView']/constructor[@name='WaveLoadingView' and count(parameter)=3 and parameter[1][@type='android.content.Context'] and parameter[2][@type='android.util.AttributeSet'] and parameter[3][@type='int']]"
+		[Register (".ctor", "(Landroid/content/Context;Landroid/util/AttributeSet;I)V", "")]
+		public unsafe WaveLoadingView (global::Android.Content.Context p0, global::Android.Util.IAttributeSet p1, int p2)
+			: base (IntPtr.Zero, JniHandleOwnership.DoNotTransfer)
+		{
+			if (Handle != IntPtr.Zero)
+				return;
+
+			try {
+				JValue* __args = stackalloc JValue [3];
+				__args [0] = new JValue (p0);
+				__args [1] = new JValue (p1);
+				__args [2] = new JValue (p2);
+				if (GetType () != typeof (WaveLoadingView)) {
+					SetHandle (
+							global::Android.Runtime.JNIEnv.StartCreateInstance (GetType (), "(Landroid/content/Context;Landroid/util/AttributeSet;I)V", __args),
+							JniHandleOwnership.TransferLocalRef);
+					global::Android.Runtime.JNIEnv.FinishCreateInstance (Handle, "(Landroid/content/Context;Landroid/util/AttributeSet;I)V", __args);
+					return;
+				}
+
+				if (id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I == IntPtr.Zero)
+					id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I = JNIEnv.GetMethodID (class_ref, "<init>", "(Landroid/content/Context;Landroid/util/AttributeSet;I)V");
+				SetHandle (
+						global::Android.Runtime.JNIEnv.StartCreateInstance (class_ref, id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I, __args),
+						JniHandleOwnership.TransferLocalRef);
+				JNIEnv.FinishCreateInstance (Handle, class_ref, id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I, __args);
+			} finally {
+			}
+		}
+
 		static IntPtr id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_;
 		// Metadata.xml XPath constructor reference: path="/api/package[@name='me.itangqi.waveloadingview']/class[@name='WaveLoadingView']/constructor[@name='WaveLoadingView' and count(parameter)=2 and parameter[1][@type='android.content.Context'] and parameter[2][@type='android.util.AttributeSet']]"
 		[Register (".ctor", "(Landroid/content/Context;Landroid/util/AttributeSet;)V", "")]
@@ -162,38 +194,6 @@ namespace ME.Itangqi.Waveloadingview {
 						global::Android.Runtime.JNIEnv.StartCreateInstance (class_ref, id_ctor_Landroid_content_Context_, __args),
 						JniHandleOwnership.TransferLocalRef);
 				JNIEnv.FinishCreateInstance (Handle, class_ref, id_ctor_Landroid_content_Context_, __args);
-			} finally {
-			}
-		}
-
-		static IntPtr id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I;
-		// Metadata.xml XPath constructor reference: path="/api/package[@name='me.itangqi.waveloadingview']/class[@name='WaveLoadingView']/constructor[@name='WaveLoadingView' and count(parameter)=3 and parameter[1][@type='android.content.Context'] and parameter[2][@type='android.util.AttributeSet'] and parameter[3][@type='int']]"
-		[Register (".ctor", "(Landroid/content/Context;Landroid/util/AttributeSet;I)V", "")]
-		public unsafe WaveLoadingView (global::Android.Content.Context p0, global::Android.Util.IAttributeSet p1, int p2)
-			: base (IntPtr.Zero, JniHandleOwnership.DoNotTransfer)
-		{
-			if (Handle != IntPtr.Zero)
-				return;
-
-			try {
-				JValue* __args = stackalloc JValue [3];
-				__args [0] = new JValue (p0);
-				__args [1] = new JValue (p1);
-				__args [2] = new JValue (p2);
-				if (GetType () != typeof (WaveLoadingView)) {
-					SetHandle (
-							global::Android.Runtime.JNIEnv.StartCreateInstance (GetType (), "(Landroid/content/Context;Landroid/util/AttributeSet;I)V", __args),
-							JniHandleOwnership.TransferLocalRef);
-					global::Android.Runtime.JNIEnv.FinishCreateInstance (Handle, "(Landroid/content/Context;Landroid/util/AttributeSet;I)V", __args);
-					return;
-				}
-
-				if (id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I == IntPtr.Zero)
-					id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I = JNIEnv.GetMethodID (class_ref, "<init>", "(Landroid/content/Context;Landroid/util/AttributeSet;I)V");
-				SetHandle (
-						global::Android.Runtime.JNIEnv.StartCreateInstance (class_ref, id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I, __args),
-						JniHandleOwnership.TransferLocalRef);
-				JNIEnv.FinishCreateInstance (Handle, class_ref, id_ctor_Landroid_content_Context_Landroid_util_AttributeSet_I, __args);
 			} finally {
 			}
 		}

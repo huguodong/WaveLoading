@@ -5,5 +5,10 @@ E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.pdb
 E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.csprojResolveAssemblyReference.cache
 E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.dll.mdb
 E:\xamarin\WaveLoading\WaveLoading\bin\Debug\WaveLoading.dll.mdb
-E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.dll.mdb
-E:\xamarin\WaveLoading\WaveLoading\bin\Debug\WaveLoading.dll.mdb
+D:\Documents\GitHub\WaveLoading\WaveLoading\bin\Debug\WaveLoading.dll
+D:\Documents\GitHub\WaveLoading\WaveLoading\bin\Debug\WaveLoading.pdb
+D:\Documents\GitHub\WaveLoading\WaveLoading\obj\Debug\WaveLoading.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\WaveLoading\WaveLoading\obj\Debug\WaveLoading.dll
+D:\Documents\GitHub\WaveLoading\WaveLoading\obj\Debug\WaveLoading.pdb
+D:\Documents\GitHub\WaveLoading\WaveLoading\obj\Debug\WaveLoading.dll.mdb
+D:\Documents\GitHub\WaveLoading\WaveLoading\bin\Debug\WaveLoading.dll.mdb

@@ -4,6 +4,6 @@
   <NativeLibraries />
   <Jars>
     <Jar>obj\Debug\__library_projects__\discreteSeekBar\library_project_imports\discreteseekbar.jar</Jar>
-    <Jar>obj\Debug\__library_projects__\WaveLoading\library_project_imports\wave.jar</Jar>
+    <Jar>obj\Debug\__library_projects__\WaveLoading\library_project_imports\wave2.jar</Jar>
   </Jars>
 </Paths>

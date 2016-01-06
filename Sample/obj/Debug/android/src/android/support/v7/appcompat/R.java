@@ -1536,72 +1536,73 @@ containing a value of this type.
         public static int notification_template_icon_bg=0x7f02003c;
     }
     public static final class id {
-        public static int action0=0x7f0c005f;
+        public static int action0=0x7f0c0060;
         public static int action_bar=0x7f0c0040;
-        public static int action_bar_activity_content=0x7f0c001a;
+        public static int action_bar_activity_content=0x7f0c0000;
         public static int action_bar_container=0x7f0c003f;
         public static int action_bar_root=0x7f0c003b;
-        public static int action_bar_spinner=0x7f0c001b;
+        public static int action_bar_spinner=0x7f0c0001;
         public static int action_bar_subtitle=0x7f0c0024;
         public static int action_bar_title=0x7f0c0023;
         public static int action_context_bar=0x7f0c0041;
-        public static int action_divider=0x7f0c0063;
-        public static int action_menu_divider=0x7f0c001c;
-        public static int action_menu_presenter=0x7f0c001d;
+        public static int action_divider=0x7f0c0064;
+        public static int action_menu_divider=0x7f0c0002;
+        public static int action_menu_presenter=0x7f0c0003;
         public static int action_mode_bar=0x7f0c003d;
         public static int action_mode_bar_stub=0x7f0c003c;
         public static int action_mode_close_button=0x7f0c0025;
         public static int activity_chooser_view_content=0x7f0c0026;
         public static int alertTitle=0x7f0c0030;
-        public static int always=0x7f0c000f;
-        public static int beginning=0x7f0c000a;
+        public static int always=0x7f0c0016;
+        public static int beginning=0x7f0c0013;
         public static int border_width=0x7f0c005b;
+        public static int button1=0x7f0c005f;
         public static int buttonPanel=0x7f0c0036;
-        public static int cancel_action=0x7f0c0060;
+        public static int cancel_action=0x7f0c0061;
         public static int cb_title_bottom=0x7f0c0058;
         public static int cb_title_center=0x7f0c0057;
         public static int cb_title_top=0x7f0c0056;
         public static int checkbox=0x7f0c0038;
-        public static int chronometer=0x7f0c0066;
-        public static int collapseActionView=0x7f0c0011;
+        public static int chronometer=0x7f0c0067;
+        public static int collapseActionView=0x7f0c0017;
         public static int contentPanel=0x7f0c0031;
         public static int custom=0x7f0c0035;
         public static int customPanel=0x7f0c0034;
         public static int decor_content_parent=0x7f0c003e;
         public static int default_activity_button=0x7f0c0029;
-        public static int dialog=0x7f0c0012;
-        public static int disableHome=0x7f0c0009;
-        public static int dropdown=0x7f0c0013;
+        public static int dialog=0x7f0c001b;
+        public static int disableHome=0x7f0c000c;
+        public static int dropdown=0x7f0c001c;
         public static int edit_query=0x7f0c0042;
-        public static int end=0x7f0c000c;
-        public static int end_padder=0x7f0c006b;
+        public static int end=0x7f0c0014;
+        public static int end_padder=0x7f0c006c;
         public static int expand_activities_button=0x7f0c0027;
         public static int expanded_menu=0x7f0c0037;
-        public static int home=0x7f0c001e;
-        public static int homeAsUp=0x7f0c0006;
+        public static int home=0x7f0c0004;
+        public static int homeAsUp=0x7f0c000d;
         public static int icon=0x7f0c002b;
-        public static int ifRoom=0x7f0c000e;
+        public static int ifRoom=0x7f0c0018;
         public static int image=0x7f0c0028;
-        public static int info=0x7f0c006a;
-        public static int line1=0x7f0c0064;
-        public static int line3=0x7f0c0068;
-        public static int listMode=0x7f0c0001;
+        public static int info=0x7f0c006b;
+        public static int line1=0x7f0c0065;
+        public static int line3=0x7f0c0069;
+        public static int listMode=0x7f0c0009;
         public static int list_item=0x7f0c002a;
         public static int ll_title=0x7f0c0055;
-        public static int media_actions=0x7f0c0062;
-        public static int middle=0x7f0c000b;
-        public static int multiply=0x7f0c0018;
-        public static int never=0x7f0c000d;
-        public static int none=0x7f0c0003;
-        public static int normal=0x7f0c0000;
+        public static int media_actions=0x7f0c0063;
+        public static int middle=0x7f0c0015;
+        public static int multiply=0x7f0c001e;
+        public static int never=0x7f0c0019;
+        public static int none=0x7f0c000e;
+        public static int normal=0x7f0c000a;
         public static int parentPanel=0x7f0c002d;
-        public static int progress_circular=0x7f0c001f;
-        public static int progress_horizontal=0x7f0c0020;
+        public static int progress_circular=0x7f0c0005;
+        public static int progress_horizontal=0x7f0c0006;
         public static int radio=0x7f0c003a;
         public static int rb_shape_circle=0x7f0c0052;
         public static int rb_shape_square=0x7f0c0053;
         public static int rg_shape=0x7f0c0051;
-        public static int screen=0x7f0c0019;
+        public static int screen=0x7f0c001f;
         public static int scrollView=0x7f0c0032;
         public static int search_badge=0x7f0c0044;
         public static int search_bar=0x7f0c0043;
@@ -1618,20 +1619,20 @@ containing a value of this type.
         public static int seekbar_progress=0x7f0c005a;
         public static int select_dialog_listview=0x7f0c004e;
         public static int shortcut=0x7f0c0039;
-        public static int showCustom=0x7f0c0008;
-        public static int showHome=0x7f0c0005;
-        public static int showTitle=0x7f0c0007;
-        public static int split_action_bar=0x7f0c0021;
-        public static int src_atop=0x7f0c0017;
-        public static int src_in=0x7f0c0016;
-        public static int src_over=0x7f0c0015;
-        public static int status_bar_latest_event_content=0x7f0c0061;
+        public static int showCustom=0x7f0c000f;
+        public static int showHome=0x7f0c0010;
+        public static int showTitle=0x7f0c0011;
+        public static int split_action_bar=0x7f0c0007;
+        public static int src_atop=0x7f0c0020;
+        public static int src_in=0x7f0c0021;
+        public static int src_over=0x7f0c0022;
+        public static int status_bar_latest_event_content=0x7f0c0062;
         public static int submit_area=0x7f0c004b;
-        public static int tabMode=0x7f0c0002;
-        public static int text=0x7f0c0069;
-        public static int text2=0x7f0c0067;
+        public static int tabMode=0x7f0c000b;
+        public static int text=0x7f0c006a;
+        public static int text2=0x7f0c0068;
         public static int textSpacerNoButtons=0x7f0c0033;
-        public static int time=0x7f0c0065;
+        public static int time=0x7f0c0066;
         public static int title=0x7f0c002c;
         public static int title_template=0x7f0c002f;
         public static int topPanel=0x7f0c002e;
@@ -1639,11 +1640,11 @@ containing a value of this type.
         public static int tv_progress=0x7f0c0059;
         public static int tv_shape_type=0x7f0c0050;
         public static int tv_title=0x7f0c0054;
-        public static int up=0x7f0c0022;
-        public static int useLogo=0x7f0c0004;
+        public static int up=0x7f0c0008;
+        public static int useLogo=0x7f0c0012;
         public static int waveLoadingView=0x7f0c004f;
-        public static int withText=0x7f0c0010;
-        public static int wrap_content=0x7f0c0014;
+        public static int withText=0x7f0c001a;
+        public static int wrap_content=0x7f0c001d;
     }
     public static final class integer {
         public static int abc_config_activityDefaultDur=0x7f0a0001;
@@ -2094,7 +2095,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:background
         */
-        public static final int ActionBar_background = 10;
+        public static int ActionBar_background = 10;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2106,7 +2107,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name android.support.v7.appcompat:backgroundSplit
         */
-        public static final int ActionBar_backgroundSplit = 12;
+        public static int ActionBar_backgroundSplit = 12;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2118,7 +2119,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name android.support.v7.appcompat:backgroundStacked
         */
-        public static final int ActionBar_backgroundStacked = 11;
+        public static int ActionBar_backgroundStacked = 11;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2134,7 +2135,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetEnd
         */
-        public static final int ActionBar_contentInsetEnd = 21;
+        public static int ActionBar_contentInsetEnd = 21;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2150,7 +2151,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetLeft
         */
-        public static final int ActionBar_contentInsetLeft = 22;
+        public static int ActionBar_contentInsetLeft = 22;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2166,7 +2167,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetRight
         */
-        public static final int ActionBar_contentInsetRight = 23;
+        public static int ActionBar_contentInsetRight = 23;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2182,7 +2183,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetStart
         */
-        public static final int ActionBar_contentInsetStart = 20;
+        public static int ActionBar_contentInsetStart = 20;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2192,7 +2193,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:customNavigationLayout
         */
-        public static final int ActionBar_customNavigationLayout = 13;
+        public static int ActionBar_customNavigationLayout = 13;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2214,7 +2215,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 </table>
           @attr name android.support.v7.appcompat:displayOptions
         */
-        public static final int ActionBar_displayOptions = 3;
+        public static int ActionBar_displayOptions = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2224,7 +2225,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:divider
         */
-        public static final int ActionBar_divider = 9;
+        public static int ActionBar_divider = 9;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2240,7 +2241,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:elevation
         */
-        public static final int ActionBar_elevation = 24;
+        public static int ActionBar_elevation = 24;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2256,7 +2257,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:height
         */
-        public static final int ActionBar_height = 0;
+        public static int ActionBar_height = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2270,7 +2271,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:hideOnContentScroll
         */
-        public static final int ActionBar_hideOnContentScroll = 19;
+        public static int ActionBar_hideOnContentScroll = 19;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2280,7 +2281,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:homeAsUpIndicator
         */
-        public static final int ActionBar_homeAsUpIndicator = 26;
+        public static int ActionBar_homeAsUpIndicator = 26;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2290,7 +2291,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:homeLayout
         */
-        public static final int ActionBar_homeLayout = 14;
+        public static int ActionBar_homeLayout = 14;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2300,7 +2301,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:icon
         */
-        public static final int ActionBar_icon = 7;
+        public static int ActionBar_icon = 7;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2310,7 +2311,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:indeterminateProgressStyle
         */
-        public static final int ActionBar_indeterminateProgressStyle = 16;
+        public static int ActionBar_indeterminateProgressStyle = 16;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2326,7 +2327,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:itemPadding
         */
-        public static final int ActionBar_itemPadding = 18;
+        public static int ActionBar_itemPadding = 18;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2336,7 +2337,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:logo
         */
-        public static final int ActionBar_logo = 8;
+        public static int ActionBar_logo = 8;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2354,7 +2355,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 </table>
           @attr name android.support.v7.appcompat:navigationMode
         */
-        public static final int ActionBar_navigationMode = 2;
+        public static int ActionBar_navigationMode = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2364,7 +2365,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:popupTheme
         */
-        public static final int ActionBar_popupTheme = 25;
+        public static int ActionBar_popupTheme = 25;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2380,7 +2381,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:progressBarPadding
         */
-        public static final int ActionBar_progressBarPadding = 17;
+        public static int ActionBar_progressBarPadding = 17;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2390,7 +2391,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:progressBarStyle
         */
-        public static final int ActionBar_progressBarStyle = 15;
+        public static int ActionBar_progressBarStyle = 15;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2404,7 +2405,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:subtitle
         */
-        public static final int ActionBar_subtitle = 4;
+        public static int ActionBar_subtitle = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2414,7 +2415,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:subtitleTextStyle
         */
-        public static final int ActionBar_subtitleTextStyle = 6;
+        public static int ActionBar_subtitleTextStyle = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2428,7 +2429,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:title
         */
-        public static final int ActionBar_title = 1;
+        public static int ActionBar_title = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
@@ -2438,7 +2439,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:titleTextStyle
         */
-        public static final int ActionBar_titleTextStyle = 5;
+        public static int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
            <p>Includes the following attributes:</p>
            <table>
@@ -2457,7 +2458,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #ActionBarLayout} array.
           @attr name android:layout_gravity
         */
-        public static final int ActionBarLayout_android_layout_gravity = 0;
+        public static int ActionBarLayout_android_layout_gravity = 0;
         /** Attributes that can be used with a ActionMenuItemView.
            <p>Includes the following attributes:</p>
            <table>
@@ -2476,7 +2477,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #ActionMenuItemView} array.
           @attr name android:minWidth
         */
-        public static final int ActionMenuItemView_android_minWidth = 0;
+        public static int ActionMenuItemView_android_minWidth = 0;
         /** Attributes that can be used with a ActionMenuView.
          */
         public static final int[] ActionMenuView = {
@@ -2515,7 +2516,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:background
         */
-        public static final int ActionMode_background = 3;
+        public static int ActionMode_background = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
@@ -2527,7 +2528,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name android.support.v7.appcompat:backgroundSplit
         */
-        public static final int ActionMode_backgroundSplit = 4;
+        public static int ActionMode_backgroundSplit = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
@@ -2537,7 +2538,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:closeItemLayout
         */
-        public static final int ActionMode_closeItemLayout = 5;
+        public static int ActionMode_closeItemLayout = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
@@ -2553,7 +2554,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:height
         */
-        public static final int ActionMode_height = 0;
+        public static int ActionMode_height = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
@@ -2563,7 +2564,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:subtitleTextStyle
         */
-        public static final int ActionMode_subtitleTextStyle = 2;
+        public static int ActionMode_subtitleTextStyle = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
@@ -2573,7 +2574,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:titleTextStyle
         */
-        public static final int ActionMode_titleTextStyle = 1;
+        public static int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
            <p>Includes the following attributes:</p>
            <table>
@@ -2598,7 +2599,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:expandActivityOverflowButtonDrawable
         */
-        public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
+        public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
@@ -2612,7 +2613,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:initialActivityCount
         */
-        public static final int ActivityChooserView_initialActivityCount = 0;
+        public static int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
            <p>Includes the following attributes:</p>
            <table>
@@ -2642,7 +2643,7 @@ containing a value of this type.
           attribute's value can be found in the {@link #AlertDialog} array.
           @attr name android:layout
         */
-        public static final int AlertDialog_android_layout = 0;
+        public static int AlertDialog_android_layout = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
@@ -2652,7 +2653,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonPanelSideLayout
         */
-        public static final int AlertDialog_buttonPanelSideLayout = 1;
+        public static int AlertDialog_buttonPanelSideLayout = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
@@ -2662,7 +2663,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:listItemLayout
         */
-        public static final int AlertDialog_listItemLayout = 5;
+        public static int AlertDialog_listItemLayout = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
@@ -2672,7 +2673,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:listLayout
         */
-        public static final int AlertDialog_listLayout = 2;
+        public static int AlertDialog_listLayout = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
@@ -2682,7 +2683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:multiChoiceItemLayout
         */
-        public static final int AlertDialog_multiChoiceItemLayout = 3;
+        public static int AlertDialog_multiChoiceItemLayout = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
@@ -2692,7 +2693,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:singleChoiceItemLayout
         */
-        public static final int AlertDialog_singleChoiceItemLayout = 4;
+        public static int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
            <p>Includes the following attributes:</p>
            <table>
@@ -2713,7 +2714,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #AppCompatTextView} array.
           @attr name android:textAppearance
         */
-        public static final int AppCompatTextView_android_textAppearance = 0;
+        public static int AppCompatTextView_android_textAppearance = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
@@ -2724,7 +2725,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           @attr name android.support.v7.appcompat:textAllCaps
         */
-        public static final int AppCompatTextView_textAllCaps = 1;
+        public static int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a DrawerArrowToggle.
            <p>Includes the following attributes:</p>
            <table>
@@ -2768,7 +2769,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:barSize
         */
-        public static final int DrawerArrowToggle_barSize = 6;
+        public static int DrawerArrowToggle_barSize = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2783,7 +2784,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:color
         */
-        public static final int DrawerArrowToggle_color = 0;
+        public static int DrawerArrowToggle_color = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2799,7 +2800,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:drawableSize
         */
-        public static final int DrawerArrowToggle_drawableSize = 2;
+        public static int DrawerArrowToggle_drawableSize = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2815,7 +2816,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:gapBetweenBars
         */
-        public static final int DrawerArrowToggle_gapBetweenBars = 3;
+        public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2831,7 +2832,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:middleBarArrowSize
         */
-        public static final int DrawerArrowToggle_middleBarArrowSize = 5;
+        public static int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2845,7 +2846,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:spinBars
         */
-        public static final int DrawerArrowToggle_spinBars = 1;
+        public static int DrawerArrowToggle_spinBars = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2861,7 +2862,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:thickness
         */
-        public static final int DrawerArrowToggle_thickness = 7;
+        public static int DrawerArrowToggle_thickness = 7;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
@@ -2877,7 +2878,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:topBottomBarArrowSize
         */
-        public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
+        public static int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -2914,31 +2915,31 @@ containing a value of this type.
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
           @attr name android:baselineAligned
         */
-        public static final int LinearLayoutCompat_android_baselineAligned = 2;
+        public static int LinearLayoutCompat_android_baselineAligned = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#baselineAlignedChildIndex}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
           @attr name android:baselineAlignedChildIndex
         */
-        public static final int LinearLayoutCompat_android_baselineAlignedChildIndex = 3;
+        public static int LinearLayoutCompat_android_baselineAlignedChildIndex = 3;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
           @attr name android:gravity
         */
-        public static final int LinearLayoutCompat_android_gravity = 0;
+        public static int LinearLayoutCompat_android_gravity = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#orientation}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
           @attr name android:orientation
         */
-        public static final int LinearLayoutCompat_android_orientation = 1;
+        public static int LinearLayoutCompat_android_orientation = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#weightSum}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
           @attr name android:weightSum
         */
-        public static final int LinearLayoutCompat_android_weightSum = 4;
+        public static int LinearLayoutCompat_android_weightSum = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
@@ -2948,7 +2949,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:divider
         */
-        public static final int LinearLayoutCompat_divider = 5;
+        public static int LinearLayoutCompat_divider = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
@@ -2964,7 +2965,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:dividerPadding
         */
-        public static final int LinearLayoutCompat_dividerPadding = 8;
+        public static int LinearLayoutCompat_dividerPadding = 8;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
@@ -2978,7 +2979,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:measureWithLargestChild
         */
-        public static final int LinearLayoutCompat_measureWithLargestChild = 6;
+        public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
@@ -2997,7 +2998,7 @@ containing a value of this type.
 </table>
           @attr name android.support.v7.appcompat:showDividers
         */
-        public static final int LinearLayoutCompat_showDividers = 7;
+        public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
            <p>Includes the following attributes:</p>
            <table>
@@ -3022,25 +3023,25 @@ containing a value of this type.
           attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
           @attr name android:layout_gravity
         */
-        public static final int LinearLayoutCompat_Layout_android_layout_gravity = 0;
+        public static int LinearLayoutCompat_Layout_android_layout_gravity = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#layout_height}
           attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
           @attr name android:layout_height
         */
-        public static final int LinearLayoutCompat_Layout_android_layout_height = 2;
+        public static int LinearLayoutCompat_Layout_android_layout_height = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#layout_weight}
           attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
           @attr name android:layout_weight
         */
-        public static final int LinearLayoutCompat_Layout_android_layout_weight = 3;
+        public static int LinearLayoutCompat_Layout_android_layout_weight = 3;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#layout_width}
           attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
           @attr name android:layout_width
         */
-        public static final int LinearLayoutCompat_Layout_android_layout_width = 1;
+        public static int LinearLayoutCompat_Layout_android_layout_width = 1;
         /** Attributes that can be used with a ListPopupWindow.
            <p>Includes the following attributes:</p>
            <table>
@@ -3061,13 +3062,13 @@ containing a value of this type.
           attribute's value can be found in the {@link #ListPopupWindow} array.
           @attr name android:dropDownHorizontalOffset
         */
-        public static final int ListPopupWindow_android_dropDownHorizontalOffset = 0;
+        public static int ListPopupWindow_android_dropDownHorizontalOffset = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
           attribute's value can be found in the {@link #ListPopupWindow} array.
           @attr name android:dropDownVerticalOffset
         */
-        public static final int ListPopupWindow_android_dropDownVerticalOffset = 1;
+        public static int ListPopupWindow_android_dropDownVerticalOffset = 1;
         /** Attributes that can be used with a MenuGroup.
            <p>Includes the following attributes:</p>
            <table>
@@ -3097,37 +3098,37 @@ containing a value of this type.
           attribute's value can be found in the {@link #MenuGroup} array.
           @attr name android:checkableBehavior
         */
-        public static final int MenuGroup_android_checkableBehavior = 5;
+        public static int MenuGroup_android_checkableBehavior = 5;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#enabled}
           attribute's value can be found in the {@link #MenuGroup} array.
           @attr name android:enabled
         */
-        public static final int MenuGroup_android_enabled = 0;
+        public static int MenuGroup_android_enabled = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#id}
           attribute's value can be found in the {@link #MenuGroup} array.
           @attr name android:id
         */
-        public static final int MenuGroup_android_id = 1;
+        public static int MenuGroup_android_id = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
           attribute's value can be found in the {@link #MenuGroup} array.
           @attr name android:menuCategory
         */
-        public static final int MenuGroup_android_menuCategory = 3;
+        public static int MenuGroup_android_menuCategory = 3;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
           attribute's value can be found in the {@link #MenuGroup} array.
           @attr name android:orderInCategory
         */
-        public static final int MenuGroup_android_orderInCategory = 4;
+        public static int MenuGroup_android_orderInCategory = 4;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#visible}
           attribute's value can be found in the {@link #MenuGroup} array.
           @attr name android:visible
         */
-        public static final int MenuGroup_android_visible = 2;
+        public static int MenuGroup_android_visible = 2;
         /** Attributes that can be used with a MenuItem.
            <p>Includes the following attributes:</p>
            <table>
@@ -3186,7 +3187,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionLayout
         */
-        public static final int MenuItem_actionLayout = 14;
+        public static int MenuItem_actionLayout = 14;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
@@ -3200,7 +3201,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:actionProviderClass
         */
-        public static final int MenuItem_actionProviderClass = 16;
+        public static int MenuItem_actionProviderClass = 16;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
@@ -3214,85 +3215,85 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:actionViewClass
         */
-        public static final int MenuItem_actionViewClass = 15;
+        public static int MenuItem_actionViewClass = 15;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#alphabeticShortcut}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:alphabeticShortcut
         */
-        public static final int MenuItem_android_alphabeticShortcut = 9;
+        public static int MenuItem_android_alphabeticShortcut = 9;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#checkable}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:checkable
         */
-        public static final int MenuItem_android_checkable = 11;
+        public static int MenuItem_android_checkable = 11;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#checked}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:checked
         */
-        public static final int MenuItem_android_checked = 3;
+        public static int MenuItem_android_checked = 3;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#enabled}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:enabled
         */
-        public static final int MenuItem_android_enabled = 1;
+        public static int MenuItem_android_enabled = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#icon}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:icon
         */
-        public static final int MenuItem_android_icon = 0;
+        public static int MenuItem_android_icon = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#id}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:id
         */
-        public static final int MenuItem_android_id = 2;
+        public static int MenuItem_android_id = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:menuCategory
         */
-        public static final int MenuItem_android_menuCategory = 5;
+        public static int MenuItem_android_menuCategory = 5;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#numericShortcut}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:numericShortcut
         */
-        public static final int MenuItem_android_numericShortcut = 10;
+        public static int MenuItem_android_numericShortcut = 10;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#onClick}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:onClick
         */
-        public static final int MenuItem_android_onClick = 12;
+        public static int MenuItem_android_onClick = 12;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:orderInCategory
         */
-        public static final int MenuItem_android_orderInCategory = 6;
+        public static int MenuItem_android_orderInCategory = 6;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#title}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:title
         */
-        public static final int MenuItem_android_title = 7;
+        public static int MenuItem_android_title = 7;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#titleCondensed}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:titleCondensed
         */
-        public static final int MenuItem_android_titleCondensed = 8;
+        public static int MenuItem_android_titleCondensed = 8;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#visible}
           attribute's value can be found in the {@link #MenuItem} array.
           @attr name android:visible
         */
-        public static final int MenuItem_android_visible = 4;
+        public static int MenuItem_android_visible = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
@@ -3312,7 +3313,7 @@ containing a value of this type.
 </table>
           @attr name android.support.v7.appcompat:showAsAction
         */
-        public static final int MenuItem_showAsAction = 13;
+        public static int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
            <p>Includes the following attributes:</p>
            <table>
@@ -3346,43 +3347,43 @@ containing a value of this type.
           attribute's value can be found in the {@link #MenuView} array.
           @attr name android:headerBackground
         */
-        public static final int MenuView_android_headerBackground = 4;
+        public static int MenuView_android_headerBackground = 4;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#horizontalDivider}
           attribute's value can be found in the {@link #MenuView} array.
           @attr name android:horizontalDivider
         */
-        public static final int MenuView_android_horizontalDivider = 2;
+        public static int MenuView_android_horizontalDivider = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#itemBackground}
           attribute's value can be found in the {@link #MenuView} array.
           @attr name android:itemBackground
         */
-        public static final int MenuView_android_itemBackground = 5;
+        public static int MenuView_android_itemBackground = 5;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#itemIconDisabledAlpha}
           attribute's value can be found in the {@link #MenuView} array.
           @attr name android:itemIconDisabledAlpha
         */
-        public static final int MenuView_android_itemIconDisabledAlpha = 6;
+        public static int MenuView_android_itemIconDisabledAlpha = 6;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #MenuView} array.
           @attr name android:itemTextAppearance
         */
-        public static final int MenuView_android_itemTextAppearance = 1;
+        public static int MenuView_android_itemTextAppearance = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#verticalDivider}
           attribute's value can be found in the {@link #MenuView} array.
           @attr name android:verticalDivider
         */
-        public static final int MenuView_android_verticalDivider = 3;
+        public static int MenuView_android_verticalDivider = 3;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
           attribute's value can be found in the {@link #MenuView} array.
           @attr name android:windowAnimationStyle
         */
-        public static final int MenuView_android_windowAnimationStyle = 0;
+        public static int MenuView_android_windowAnimationStyle = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
@@ -3396,7 +3397,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:preserveIconSpacing
         */
-        public static final int MenuView_preserveIconSpacing = 7;
+        public static int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
            <p>Includes the following attributes:</p>
            <table>
@@ -3417,7 +3418,7 @@ containing a value of this type.
           attribute's value can be found in the {@link #PopupWindow} array.
           @attr name android:popupBackground
         */
-        public static final int PopupWindow_android_popupBackground = 0;
+        public static int PopupWindow_android_popupBackground = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
@@ -3431,7 +3432,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:overlapAnchor
         */
-        public static final int PopupWindow_overlapAnchor = 1;
+        public static int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
            <p>Includes the following attributes:</p>
            <table>
@@ -3458,7 +3459,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:state_above_anchor
         */
-        public static final int PopupWindowBackgroundState_state_above_anchor = 0;
+        public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
            <p>Includes the following attributes:</p>
            <table>
@@ -3513,25 +3514,25 @@ containing a value of this type.
           attribute's value can be found in the {@link #SearchView} array.
           @attr name android:focusable
         */
-        public static final int SearchView_android_focusable = 0;
+        public static int SearchView_android_focusable = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#imeOptions}
           attribute's value can be found in the {@link #SearchView} array.
           @attr name android:imeOptions
         */
-        public static final int SearchView_android_imeOptions = 3;
+        public static int SearchView_android_imeOptions = 3;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#inputType}
           attribute's value can be found in the {@link #SearchView} array.
           @attr name android:inputType
         */
-        public static final int SearchView_android_inputType = 2;
+        public static int SearchView_android_inputType = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
           attribute's value can be found in the {@link #SearchView} array.
           @attr name android:maxWidth
         */
-        public static final int SearchView_android_maxWidth = 1;
+        public static int SearchView_android_maxWidth = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3541,7 +3542,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:closeIcon
         */
-        public static final int SearchView_closeIcon = 8;
+        public static int SearchView_closeIcon = 8;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3551,7 +3552,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:commitIcon
         */
-        public static final int SearchView_commitIcon = 13;
+        public static int SearchView_commitIcon = 13;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3565,7 +3566,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:defaultQueryHint
         */
-        public static final int SearchView_defaultQueryHint = 7;
+        public static int SearchView_defaultQueryHint = 7;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3575,7 +3576,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:goIcon
         */
-        public static final int SearchView_goIcon = 9;
+        public static int SearchView_goIcon = 9;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3589,7 +3590,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:iconifiedByDefault
         */
-        public static final int SearchView_iconifiedByDefault = 5;
+        public static int SearchView_iconifiedByDefault = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3599,7 +3600,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:layout
         */
-        public static final int SearchView_layout = 4;
+        public static int SearchView_layout = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3609,7 +3610,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:queryBackground
         */
-        public static final int SearchView_queryBackground = 15;
+        public static int SearchView_queryBackground = 15;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3623,7 +3624,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:queryHint
         */
-        public static final int SearchView_queryHint = 6;
+        public static int SearchView_queryHint = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3633,7 +3634,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:searchHintIcon
         */
-        public static final int SearchView_searchHintIcon = 11;
+        public static int SearchView_searchHintIcon = 11;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3643,7 +3644,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:searchIcon
         */
-        public static final int SearchView_searchIcon = 10;
+        public static int SearchView_searchIcon = 10;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3653,7 +3654,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:submitBackground
         */
-        public static final int SearchView_submitBackground = 16;
+        public static int SearchView_submitBackground = 16;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3663,7 +3664,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:suggestionRowLayout
         */
-        public static final int SearchView_suggestionRowLayout = 14;
+        public static int SearchView_suggestionRowLayout = 14;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3673,7 +3674,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:voiceIcon
         */
-        public static final int SearchView_voiceIcon = 12;
+        public static int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
            <p>Includes the following attributes:</p>
            <table>
@@ -3714,43 +3715,43 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:background
         */
-        public static final int Spinner_android_background = 1;
+        public static int Spinner_android_background = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownHorizontalOffset
         */
-        public static final int Spinner_android_dropDownHorizontalOffset = 5;
+        public static int Spinner_android_dropDownHorizontalOffset = 5;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownSelector}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownSelector
         */
-        public static final int Spinner_android_dropDownSelector = 2;
+        public static int Spinner_android_dropDownSelector = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownVerticalOffset
         */
-        public static final int Spinner_android_dropDownVerticalOffset = 6;
+        public static int Spinner_android_dropDownVerticalOffset = 6;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownWidth
         */
-        public static final int Spinner_android_dropDownWidth = 4;
+        public static int Spinner_android_dropDownWidth = 4;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:gravity
         */
-        public static final int Spinner_android_gravity = 0;
+        public static int Spinner_android_gravity = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:popupBackground
         */
-        public static final int Spinner_android_popupBackground = 3;
+        public static int Spinner_android_popupBackground = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3764,7 +3765,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:disableChildrenWhenDisabled
         */
-        public static final int Spinner_disableChildrenWhenDisabled = 10;
+        public static int Spinner_disableChildrenWhenDisabled = 10;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3774,7 +3775,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:popupPromptView
         */
-        public static final int Spinner_popupPromptView = 9;
+        public static int Spinner_popupPromptView = 9;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3784,7 +3785,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:prompt
         */
-        public static final int Spinner_prompt = 7;
+        public static int Spinner_prompt = 7;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3801,7 +3802,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 </table>
           @attr name android.support.v7.appcompat:spinnerMode
         */
-        public static final int Spinner_spinnerMode = 8;
+        public static int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -3840,19 +3841,19 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #SwitchCompat} array.
           @attr name android:textOff
         */
-        public static final int SwitchCompat_android_textOff = 1;
+        public static int SwitchCompat_android_textOff = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textOn}
           attribute's value can be found in the {@link #SwitchCompat} array.
           @attr name android:textOn
         */
-        public static final int SwitchCompat_android_textOn = 0;
+        public static int SwitchCompat_android_textOn = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#thumb}
           attribute's value can be found in the {@link #SwitchCompat} array.
           @attr name android:thumb
         */
-        public static final int SwitchCompat_android_thumb = 2;
+        public static int SwitchCompat_android_thumb = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3866,7 +3867,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:showText
         */
-        public static final int SwitchCompat_showText = 9;
+        public static int SwitchCompat_showText = 9;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3880,7 +3881,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:splitTrack
         */
-        public static final int SwitchCompat_splitTrack = 8;
+        public static int SwitchCompat_splitTrack = 8;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3896,7 +3897,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:switchMinWidth
         */
-        public static final int SwitchCompat_switchMinWidth = 6;
+        public static int SwitchCompat_switchMinWidth = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3912,7 +3913,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:switchPadding
         */
-        public static final int SwitchCompat_switchPadding = 7;
+        public static int SwitchCompat_switchPadding = 7;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3922,7 +3923,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:switchTextAppearance
         */
-        public static final int SwitchCompat_switchTextAppearance = 5;
+        public static int SwitchCompat_switchTextAppearance = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3938,7 +3939,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:thumbTextPadding
         */
-        public static final int SwitchCompat_thumbTextPadding = 4;
+        public static int SwitchCompat_thumbTextPadding = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
@@ -3948,7 +3949,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:track
         */
-        public static final int SwitchCompat_track = 3;
+        public static int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
            <p>Includes the following attributes:</p>
            <table>
@@ -3976,25 +3977,25 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #TextAppearance} array.
           @attr name android:textColor
         */
-        public static final int TextAppearance_android_textColor = 3;
+        public static int TextAppearance_android_textColor = 3;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textSize}
           attribute's value can be found in the {@link #TextAppearance} array.
           @attr name android:textSize
         */
-        public static final int TextAppearance_android_textSize = 0;
+        public static int TextAppearance_android_textSize = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textStyle}
           attribute's value can be found in the {@link #TextAppearance} array.
           @attr name android:textStyle
         */
-        public static final int TextAppearance_android_textStyle = 2;
+        public static int TextAppearance_android_textStyle = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#typeface}
           attribute's value can be found in the {@link #TextAppearance} array.
           @attr name android:typeface
         */
-        public static final int TextAppearance_android_typeface = 1;
+        public static int TextAppearance_android_typeface = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
@@ -4005,7 +4006,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           @attr name android.support.v7.appcompat:textAllCaps
         */
-        public static final int TextAppearance_textAllCaps = 4;
+        public static int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a Theme.
            <p>Includes the following attributes:</p>
            <table>
@@ -4266,7 +4267,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarDivider
         */
-        public static final int Theme_actionBarDivider = 23;
+        public static int Theme_actionBarDivider = 23;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4276,7 +4277,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarItemBackground
         */
-        public static final int Theme_actionBarItemBackground = 24;
+        public static int Theme_actionBarItemBackground = 24;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4286,7 +4287,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarPopupTheme
         */
-        public static final int Theme_actionBarPopupTheme = 17;
+        public static int Theme_actionBarPopupTheme = 17;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
@@ -4310,7 +4311,7 @@ containing a value of this type.
 </table>
           @attr name android.support.v7.appcompat:actionBarSize
         */
-        public static final int Theme_actionBarSize = 22;
+        public static int Theme_actionBarSize = 22;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4320,7 +4321,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarSplitStyle
         */
-        public static final int Theme_actionBarSplitStyle = 19;
+        public static int Theme_actionBarSplitStyle = 19;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4330,7 +4331,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarStyle
         */
-        public static final int Theme_actionBarStyle = 18;
+        public static int Theme_actionBarStyle = 18;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4340,7 +4341,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarTabBarStyle
         */
-        public static final int Theme_actionBarTabBarStyle = 13;
+        public static int Theme_actionBarTabBarStyle = 13;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4350,7 +4351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarTabStyle
         */
-        public static final int Theme_actionBarTabStyle = 12;
+        public static int Theme_actionBarTabStyle = 12;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4360,7 +4361,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarTabTextStyle
         */
-        public static final int Theme_actionBarTabTextStyle = 14;
+        public static int Theme_actionBarTabTextStyle = 14;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4370,7 +4371,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarTheme
         */
-        public static final int Theme_actionBarTheme = 20;
+        public static int Theme_actionBarTheme = 20;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4380,7 +4381,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionBarWidgetTheme
         */
-        public static final int Theme_actionBarWidgetTheme = 21;
+        public static int Theme_actionBarWidgetTheme = 21;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4390,7 +4391,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionButtonStyle
         */
-        public static final int Theme_actionButtonStyle = 49;
+        public static int Theme_actionButtonStyle = 49;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4400,7 +4401,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionDropDownStyle
         */
-        public static final int Theme_actionDropDownStyle = 45;
+        public static int Theme_actionDropDownStyle = 45;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
@@ -4410,7 +4411,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionMenuTextAppearance
         */
-        public static final int Theme_actionMenuTextAppearance = 25;
+        public static int Theme_actionMenuTextAppearance = 25;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
@@ -4422,7 +4423,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name android.support.v7.appcompat:actionMenuTextColor
         */
-        public static final int Theme_actionMenuTextColor = 26;
+        public static int Theme_actionMenuTextColor = 26;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4432,7 +4433,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeBackground
         */
-        public static final int Theme_actionModeBackground = 29;
+        public static int Theme_actionModeBackground = 29;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4442,7 +4443,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeCloseButtonStyle
         */
-        public static final int Theme_actionModeCloseButtonStyle = 28;
+        public static int Theme_actionModeCloseButtonStyle = 28;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4452,7 +4453,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeCloseDrawable
         */
-        public static final int Theme_actionModeCloseDrawable = 31;
+        public static int Theme_actionModeCloseDrawable = 31;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4462,7 +4463,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeCopyDrawable
         */
-        public static final int Theme_actionModeCopyDrawable = 33;
+        public static int Theme_actionModeCopyDrawable = 33;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4472,7 +4473,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeCutDrawable
         */
-        public static final int Theme_actionModeCutDrawable = 32;
+        public static int Theme_actionModeCutDrawable = 32;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4482,7 +4483,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeFindDrawable
         */
-        public static final int Theme_actionModeFindDrawable = 37;
+        public static int Theme_actionModeFindDrawable = 37;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4492,7 +4493,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModePasteDrawable
         */
-        public static final int Theme_actionModePasteDrawable = 34;
+        public static int Theme_actionModePasteDrawable = 34;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4502,7 +4503,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModePopupWindowStyle
         */
-        public static final int Theme_actionModePopupWindowStyle = 39;
+        public static int Theme_actionModePopupWindowStyle = 39;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4512,7 +4513,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeSelectAllDrawable
         */
-        public static final int Theme_actionModeSelectAllDrawable = 35;
+        public static int Theme_actionModeSelectAllDrawable = 35;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4522,7 +4523,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeShareDrawable
         */
-        public static final int Theme_actionModeShareDrawable = 36;
+        public static int Theme_actionModeShareDrawable = 36;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4532,7 +4533,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeSplitBackground
         */
-        public static final int Theme_actionModeSplitBackground = 30;
+        public static int Theme_actionModeSplitBackground = 30;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4542,7 +4543,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeStyle
         */
-        public static final int Theme_actionModeStyle = 27;
+        public static int Theme_actionModeStyle = 27;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4552,7 +4553,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionModeWebSearchDrawable
         */
-        public static final int Theme_actionModeWebSearchDrawable = 38;
+        public static int Theme_actionModeWebSearchDrawable = 38;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4562,7 +4563,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionOverflowButtonStyle
         */
-        public static final int Theme_actionOverflowButtonStyle = 15;
+        public static int Theme_actionOverflowButtonStyle = 15;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4572,7 +4573,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:actionOverflowMenuStyle
         */
-        public static final int Theme_actionOverflowMenuStyle = 16;
+        public static int Theme_actionOverflowMenuStyle = 16;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4582,7 +4583,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:activityChooserViewStyle
         */
-        public static final int Theme_activityChooserViewStyle = 57;
+        public static int Theme_activityChooserViewStyle = 57;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4592,7 +4593,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:alertDialogButtonGroupStyle
         */
-        public static final int Theme_alertDialogButtonGroupStyle = 90;
+        public static int Theme_alertDialogButtonGroupStyle = 90;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
@@ -4606,7 +4607,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:alertDialogCenterButtons
         */
-        public static final int Theme_alertDialogCenterButtons = 91;
+        public static int Theme_alertDialogCenterButtons = 91;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4616,7 +4617,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:alertDialogStyle
         */
-        public static final int Theme_alertDialogStyle = 89;
+        public static int Theme_alertDialogStyle = 89;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4626,19 +4627,19 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:alertDialogTheme
         */
-        public static final int Theme_alertDialogTheme = 92;
+        public static int Theme_alertDialogTheme = 92;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
           attribute's value can be found in the {@link #Theme} array.
           @attr name android:windowAnimationStyle
         */
-        public static final int Theme_android_windowAnimationStyle = 1;
+        public static int Theme_android_windowAnimationStyle = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
           attribute's value can be found in the {@link #Theme} array.
           @attr name android:windowIsFloating
         */
-        public static final int Theme_android_windowIsFloating = 0;
+        public static int Theme_android_windowIsFloating = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4648,7 +4649,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:autoCompleteTextViewStyle
         */
-        public static final int Theme_autoCompleteTextViewStyle = 97;
+        public static int Theme_autoCompleteTextViewStyle = 97;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4658,7 +4659,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:borderlessButtonStyle
         */
-        public static final int Theme_borderlessButtonStyle = 54;
+        public static int Theme_borderlessButtonStyle = 54;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4668,7 +4669,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonBarButtonStyle
         */
-        public static final int Theme_buttonBarButtonStyle = 51;
+        public static int Theme_buttonBarButtonStyle = 51;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4678,7 +4679,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonBarNegativeButtonStyle
         */
-        public static final int Theme_buttonBarNegativeButtonStyle = 95;
+        public static int Theme_buttonBarNegativeButtonStyle = 95;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4688,7 +4689,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonBarNeutralButtonStyle
         */
-        public static final int Theme_buttonBarNeutralButtonStyle = 96;
+        public static int Theme_buttonBarNeutralButtonStyle = 96;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4698,7 +4699,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonBarPositiveButtonStyle
         */
-        public static final int Theme_buttonBarPositiveButtonStyle = 94;
+        public static int Theme_buttonBarPositiveButtonStyle = 94;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4708,7 +4709,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonBarStyle
         */
-        public static final int Theme_buttonBarStyle = 50;
+        public static int Theme_buttonBarStyle = 50;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4718,7 +4719,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonStyle
         */
-        public static final int Theme_buttonStyle = 98;
+        public static int Theme_buttonStyle = 98;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
@@ -4728,7 +4729,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:buttonStyleSmall
         */
-        public static final int Theme_buttonStyleSmall = 99;
+        public static int Theme_buttonStyleSmall = 99;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4738,7 +4739,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:checkboxStyle
         */
-        public static final int Theme_checkboxStyle = 100;
+        public static int Theme_checkboxStyle = 100;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4748,7 +4749,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:checkedTextViewStyle
         */
-        public static final int Theme_checkedTextViewStyle = 101;
+        public static int Theme_checkedTextViewStyle = 101;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
@@ -4763,7 +4764,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorAccent
         */
-        public static final int Theme_colorAccent = 83;
+        public static int Theme_colorAccent = 83;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4778,7 +4779,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorButtonNormal
         */
-        public static final int Theme_colorButtonNormal = 87;
+        public static int Theme_colorButtonNormal = 87;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
@@ -4793,7 +4794,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorControlActivated
         */
-        public static final int Theme_colorControlActivated = 85;
+        public static int Theme_colorControlActivated = 85;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
@@ -4808,7 +4809,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorControlHighlight
         */
-        public static final int Theme_colorControlHighlight = 86;
+        public static int Theme_colorControlHighlight = 86;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4823,7 +4824,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorControlNormal
         */
-        public static final int Theme_colorControlNormal = 84;
+        public static int Theme_colorControlNormal = 84;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
@@ -4838,7 +4839,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorPrimary
         */
-        public static final int Theme_colorPrimary = 81;
+        public static int Theme_colorPrimary = 81;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
@@ -4853,7 +4854,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorPrimaryDark
         */
-        public static final int Theme_colorPrimaryDark = 82;
+        public static int Theme_colorPrimaryDark = 82;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4868,7 +4869,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:colorSwitchThumbNormal
         */
-        public static final int Theme_colorSwitchThumbNormal = 88;
+        public static int Theme_colorSwitchThumbNormal = 88;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
@@ -4884,7 +4885,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:dialogPreferredPadding
         */
-        public static final int Theme_dialogPreferredPadding = 43;
+        public static int Theme_dialogPreferredPadding = 43;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4894,7 +4895,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:dialogTheme
         */
-        public static final int Theme_dialogTheme = 42;
+        public static int Theme_dialogTheme = 42;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4904,7 +4905,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:dividerHorizontal
         */
-        public static final int Theme_dividerHorizontal = 56;
+        public static int Theme_dividerHorizontal = 56;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
@@ -4914,7 +4915,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:dividerVertical
         */
-        public static final int Theme_dividerVertical = 55;
+        public static int Theme_dividerVertical = 55;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4924,7 +4925,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:dropDownListViewStyle
         */
-        public static final int Theme_dropDownListViewStyle = 73;
+        public static int Theme_dropDownListViewStyle = 73;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
@@ -4940,7 +4941,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:dropdownListPreferredItemHeight
         */
-        public static final int Theme_dropdownListPreferredItemHeight = 46;
+        public static int Theme_dropdownListPreferredItemHeight = 46;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4950,7 +4951,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:editTextBackground
         */
-        public static final int Theme_editTextBackground = 63;
+        public static int Theme_editTextBackground = 63;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
@@ -4962,7 +4963,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name android.support.v7.appcompat:editTextColor
         */
-        public static final int Theme_editTextColor = 62;
+        public static int Theme_editTextColor = 62;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4972,7 +4973,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:editTextStyle
         */
-        public static final int Theme_editTextStyle = 102;
+        public static int Theme_editTextStyle = 102;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
@@ -4982,7 +4983,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:homeAsUpIndicator
         */
-        public static final int Theme_homeAsUpIndicator = 48;
+        public static int Theme_homeAsUpIndicator = 48;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
@@ -4992,7 +4993,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:listChoiceBackgroundIndicator
         */
-        public static final int Theme_listChoiceBackgroundIndicator = 80;
+        public static int Theme_listChoiceBackgroundIndicator = 80;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
@@ -5002,7 +5003,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:listDividerAlertDialog
         */
-        public static final int Theme_listDividerAlertDialog = 44;
+        public static int Theme_listDividerAlertDialog = 44;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5012,7 +5013,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:listPopupWindowStyle
         */
-        public static final int Theme_listPopupWindowStyle = 74;
+        public static int Theme_listPopupWindowStyle = 74;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
@@ -5028,7 +5029,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:listPreferredItemHeight
         */
-        public static final int Theme_listPreferredItemHeight = 68;
+        public static int Theme_listPreferredItemHeight = 68;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
@@ -5044,7 +5045,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:listPreferredItemHeightLarge
         */
-        public static final int Theme_listPreferredItemHeightLarge = 70;
+        public static int Theme_listPreferredItemHeightLarge = 70;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
@@ -5060,7 +5061,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:listPreferredItemHeightSmall
         */
-        public static final int Theme_listPreferredItemHeightSmall = 69;
+        public static int Theme_listPreferredItemHeightSmall = 69;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
@@ -5076,7 +5077,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:listPreferredItemPaddingLeft
         */
-        public static final int Theme_listPreferredItemPaddingLeft = 71;
+        public static int Theme_listPreferredItemPaddingLeft = 71;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
@@ -5092,7 +5093,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:listPreferredItemPaddingRight
         */
-        public static final int Theme_listPreferredItemPaddingRight = 72;
+        public static int Theme_listPreferredItemPaddingRight = 72;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -5102,7 +5103,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:panelBackground
         */
-        public static final int Theme_panelBackground = 77;
+        public static int Theme_panelBackground = 77;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -5112,7 +5113,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:panelMenuListTheme
         */
-        public static final int Theme_panelMenuListTheme = 79;
+        public static int Theme_panelMenuListTheme = 79;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
@@ -5128,7 +5129,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:panelMenuListWidth
         */
-        public static final int Theme_panelMenuListWidth = 78;
+        public static int Theme_panelMenuListWidth = 78;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5138,7 +5139,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:popupMenuStyle
         */
-        public static final int Theme_popupMenuStyle = 60;
+        public static int Theme_popupMenuStyle = 60;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5148,7 +5149,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:popupWindowStyle
         */
-        public static final int Theme_popupWindowStyle = 61;
+        public static int Theme_popupWindowStyle = 61;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5158,7 +5159,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:radioButtonStyle
         */
-        public static final int Theme_radioButtonStyle = 103;
+        public static int Theme_radioButtonStyle = 103;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5168,7 +5169,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:ratingBarStyle
         */
-        public static final int Theme_ratingBarStyle = 104;
+        public static int Theme_ratingBarStyle = 104;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5178,7 +5179,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:searchViewStyle
         */
-        public static final int Theme_searchViewStyle = 67;
+        public static int Theme_searchViewStyle = 67;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -5188,7 +5189,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:selectableItemBackground
         */
-        public static final int Theme_selectableItemBackground = 52;
+        public static int Theme_selectableItemBackground = 52;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
@@ -5198,7 +5199,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:selectableItemBackgroundBorderless
         */
-        public static final int Theme_selectableItemBackgroundBorderless = 53;
+        public static int Theme_selectableItemBackgroundBorderless = 53;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5208,7 +5209,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:spinnerDropDownItemStyle
         */
-        public static final int Theme_spinnerDropDownItemStyle = 47;
+        public static int Theme_spinnerDropDownItemStyle = 47;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5218,7 +5219,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:spinnerStyle
         */
-        public static final int Theme_spinnerStyle = 105;
+        public static int Theme_spinnerStyle = 105;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5228,7 +5229,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:switchStyle
         */
-        public static final int Theme_switchStyle = 106;
+        public static int Theme_switchStyle = 106;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
@@ -5238,7 +5239,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:textAppearanceLargePopupMenu
         */
-        public static final int Theme_textAppearanceLargePopupMenu = 40;
+        public static int Theme_textAppearanceLargePopupMenu = 40;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
@@ -5248,7 +5249,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:textAppearanceListItem
         */
-        public static final int Theme_textAppearanceListItem = 75;
+        public static int Theme_textAppearanceListItem = 75;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
@@ -5258,7 +5259,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:textAppearanceListItemSmall
         */
-        public static final int Theme_textAppearanceListItemSmall = 76;
+        public static int Theme_textAppearanceListItemSmall = 76;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5268,7 +5269,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:textAppearanceSearchResultSubtitle
         */
-        public static final int Theme_textAppearanceSearchResultSubtitle = 65;
+        public static int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5278,7 +5279,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:textAppearanceSearchResultTitle
         */
-        public static final int Theme_textAppearanceSearchResultTitle = 64;
+        public static int Theme_textAppearanceSearchResultTitle = 64;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
@@ -5288,7 +5289,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:textAppearanceSmallPopupMenu
         */
-        public static final int Theme_textAppearanceSmallPopupMenu = 41;
+        public static int Theme_textAppearanceSmallPopupMenu = 41;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
@@ -5300,7 +5301,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name android.support.v7.appcompat:textColorAlertDialogListItem
         */
-        public static final int Theme_textColorAlertDialogListItem = 93;
+        public static int Theme_textColorAlertDialogListItem = 93;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
@@ -5312,7 +5313,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name android.support.v7.appcompat:textColorSearchUrl
         */
-        public static final int Theme_textColorSearchUrl = 66;
+        public static int Theme_textColorSearchUrl = 66;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5322,7 +5323,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:toolbarNavigationButtonStyle
         */
-        public static final int Theme_toolbarNavigationButtonStyle = 59;
+        public static int Theme_toolbarNavigationButtonStyle = 59;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5332,7 +5333,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:toolbarStyle
         */
-        public static final int Theme_toolbarStyle = 58;
+        public static int Theme_toolbarStyle = 58;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
@@ -5346,7 +5347,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowActionBar
         */
-        public static final int Theme_windowActionBar = 2;
+        public static int Theme_windowActionBar = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
@@ -5360,7 +5361,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowActionBarOverlay
         */
-        public static final int Theme_windowActionBarOverlay = 4;
+        public static int Theme_windowActionBarOverlay = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
@@ -5374,7 +5375,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowActionModeOverlay
         */
-        public static final int Theme_windowActionModeOverlay = 5;
+        public static int Theme_windowActionModeOverlay = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5393,7 +5394,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowFixedHeightMajor
         */
-        public static final int Theme_windowFixedHeightMajor = 9;
+        public static int Theme_windowFixedHeightMajor = 9;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5412,7 +5413,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowFixedHeightMinor
         */
-        public static final int Theme_windowFixedHeightMinor = 7;
+        public static int Theme_windowFixedHeightMinor = 7;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5431,7 +5432,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowFixedWidthMajor
         */
-        public static final int Theme_windowFixedWidthMajor = 6;
+        public static int Theme_windowFixedWidthMajor = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5450,7 +5451,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowFixedWidthMinor
         */
-        public static final int Theme_windowFixedWidthMinor = 8;
+        public static int Theme_windowFixedWidthMinor = 8;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5469,7 +5470,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowMinWidthMajor
         */
-        public static final int Theme_windowMinWidthMajor = 10;
+        public static int Theme_windowMinWidthMajor = 10;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5488,7 +5489,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowMinWidthMinor
         */
-        public static final int Theme_windowMinWidthMinor = 11;
+        public static int Theme_windowMinWidthMinor = 11;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5502,7 +5503,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:windowNoTitle
         */
-        public static final int Theme_windowNoTitle = 3;
+        public static int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
            <p>Includes the following attributes:</p>
            <table>
@@ -5566,13 +5567,13 @@ containing a value of this type.
           attribute's value can be found in the {@link #Toolbar} array.
           @attr name android:gravity
         */
-        public static final int Toolbar_android_gravity = 0;
+        public static int Toolbar_android_gravity = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#minHeight}
           attribute's value can be found in the {@link #Toolbar} array.
           @attr name android:minHeight
         */
-        public static final int Toolbar_android_minHeight = 1;
+        public static int Toolbar_android_minHeight = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5586,7 +5587,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:collapseContentDescription
         */
-        public static final int Toolbar_collapseContentDescription = 18;
+        public static int Toolbar_collapseContentDescription = 18;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5596,7 +5597,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:collapseIcon
         */
-        public static final int Toolbar_collapseIcon = 17;
+        public static int Toolbar_collapseIcon = 17;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5612,7 +5613,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetEnd
         */
-        public static final int Toolbar_contentInsetEnd = 5;
+        public static int Toolbar_contentInsetEnd = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5628,7 +5629,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetLeft
         */
-        public static final int Toolbar_contentInsetLeft = 6;
+        public static int Toolbar_contentInsetLeft = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5644,7 +5645,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetRight
         */
-        public static final int Toolbar_contentInsetRight = 7;
+        public static int Toolbar_contentInsetRight = 7;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5660,7 +5661,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:contentInsetStart
         */
-        public static final int Toolbar_contentInsetStart = 4;
+        public static int Toolbar_contentInsetStart = 4;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5676,7 +5677,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:maxButtonHeight
         */
-        public static final int Toolbar_maxButtonHeight = 16;
+        public static int Toolbar_maxButtonHeight = 16;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5690,7 +5691,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:navigationContentDescription
         */
-        public static final int Toolbar_navigationContentDescription = 20;
+        public static int Toolbar_navigationContentDescription = 20;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5700,7 +5701,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:navigationIcon
         */
-        public static final int Toolbar_navigationIcon = 19;
+        public static int Toolbar_navigationIcon = 19;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5710,7 +5711,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:popupTheme
         */
-        public static final int Toolbar_popupTheme = 8;
+        public static int Toolbar_popupTheme = 8;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5724,7 +5725,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:subtitle
         */
-        public static final int Toolbar_subtitle = 3;
+        public static int Toolbar_subtitle = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5734,7 +5735,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:subtitleTextAppearance
         */
-        public static final int Toolbar_subtitleTextAppearance = 10;
+        public static int Toolbar_subtitleTextAppearance = 10;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5748,7 +5749,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:title
         */
-        public static final int Toolbar_title = 2;
+        public static int Toolbar_title = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5764,7 +5765,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:titleMarginBottom
         */
-        public static final int Toolbar_titleMarginBottom = 15;
+        public static int Toolbar_titleMarginBottom = 15;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5780,7 +5781,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:titleMarginEnd
         */
-        public static final int Toolbar_titleMarginEnd = 13;
+        public static int Toolbar_titleMarginEnd = 13;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5796,7 +5797,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:titleMarginStart
         */
-        public static final int Toolbar_titleMarginStart = 12;
+        public static int Toolbar_titleMarginStart = 12;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5812,7 +5813,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:titleMarginTop
         */
-        public static final int Toolbar_titleMarginTop = 14;
+        public static int Toolbar_titleMarginTop = 14;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5828,7 +5829,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:titleMargins
         */
-        public static final int Toolbar_titleMargins = 11;
+        public static int Toolbar_titleMargins = 11;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5838,7 +5839,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:titleTextAppearance
         */
-        public static final int Toolbar_titleTextAppearance = 9;
+        public static int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
            <p>Includes the following attributes:</p>
            <table>
@@ -5870,13 +5871,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #View} array.
           @attr name android:focusable
         */
-        public static final int View_android_focusable = 1;
+        public static int View_android_focusable = 1;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
           @attr name android:theme
         */
-        public static final int View_android_theme = 0;
+        public static int View_android_theme = 0;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#backgroundTint}
           attribute's value can be found in the {@link #View} array.
@@ -5891,7 +5892,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:backgroundTint
         */
-        public static final int View_backgroundTint = 5;
+        public static int View_backgroundTint = 5;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #View} array.
@@ -5911,7 +5912,7 @@ containing a value of this type.
 </table>
           @attr name android.support.v7.appcompat:backgroundTintMode
         */
-        public static final int View_backgroundTintMode = 6;
+        public static int View_backgroundTintMode = 6;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
@@ -5927,7 +5928,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:paddingEnd
         */
-        public static final int View_paddingEnd = 3;
+        public static int View_paddingEnd = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
@@ -5943,7 +5944,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.appcompat:paddingStart
         */
-        public static final int View_paddingStart = 2;
+        public static int View_paddingStart = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.appcompat.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
@@ -5953,7 +5954,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name android.support.v7.appcompat:theme
         */
-        public static final int View_theme = 4;
+        public static int View_theme = 4;
         /** Attributes that can be used with a ViewStubCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -5976,18 +5977,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #ViewStubCompat} array.
           @attr name android:id
         */
-        public static final int ViewStubCompat_android_id = 0;
+        public static int ViewStubCompat_android_id = 0;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
           attribute's value can be found in the {@link #ViewStubCompat} array.
           @attr name android:inflatedId
         */
-        public static final int ViewStubCompat_android_inflatedId = 2;
+        public static int ViewStubCompat_android_inflatedId = 2;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#layout}
           attribute's value can be found in the {@link #ViewStubCompat} array.
           @attr name android:layout
         */
-        public static final int ViewStubCompat_android_layout = 1;
+        public static int ViewStubCompat_android_layout = 1;
     };
 }
