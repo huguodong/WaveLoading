@@ -1,9 +1,0 @@
-E:\xamarin\WaveLoading\WaveLoading\bin\Debug\WaveLoading.dll
-E:\xamarin\WaveLoading\WaveLoading\bin\Debug\WaveLoading.pdb
-E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.dll
-E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.pdb
-E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.csprojResolveAssemblyReference.cache
-E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.dll.mdb
-E:\xamarin\WaveLoading\WaveLoading\bin\Debug\WaveLoading.dll.mdb
-E:\xamarin\WaveLoading\WaveLoading\obj\Debug\WaveLoading.dll.mdb
-E:\xamarin\WaveLoading\WaveLoading\bin\Debug\WaveLoading.dll.mdb
